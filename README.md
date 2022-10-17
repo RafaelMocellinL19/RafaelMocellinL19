@@ -18,9 +18,9 @@
  
  <br>
  
-  ### hello world... I'm Rafael !!
+  ### <span style="color: green ">hello world...</span> I'm Rafael !!
   
-<div>
+<div  style="display: inline_block">
 
   
   <a href="https://www.instagram.com/r4f4leszczynsk1/" target="_blank"><img src="https://img.shields.io/badge/-instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>
