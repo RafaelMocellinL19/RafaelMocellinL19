@@ -9,7 +9,7 @@
 ## 🚀 Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,ts,react,sass,bootstrap,java,c,ruby,php,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,python,ts,react,sass,bootstrap,java,c,ruby,php,vscode" />
 </p>
 
 ---
