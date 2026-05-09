@@ -40,9 +40,6 @@
 ---
 ### 📊 Netflix Data Visualization
 
-<p align="center">
-  <img src="LINK_DA_IMAGEM" width="800"/>
-</p>
 
 📌 Exploratory Data Analysis and Data Visualization using Python.  
 📈 Insights about Nflix catalog, genres, ratings and release trends.  
