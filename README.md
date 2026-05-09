@@ -38,7 +38,7 @@
 - 🐍 Python Data Analysis
 - 🌐 Web Development Projects
 ---
-### 📊 Netflix Data Visualization
+### 📊 Nflix Data Visualization
 
 
 📌 Exploratory Data Analysis and Data Visualization using Python.  
