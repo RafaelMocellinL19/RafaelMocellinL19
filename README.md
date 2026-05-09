@@ -9,47 +9,54 @@
 
 <div align="center">
 
-  <img align="center" alt="Js" height="30" width="40"
+  <img alt="JavaScript" height="30" width="40"
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
-  <img align="center" alt="HTML" height="30" width="40"
+  <img alt="HTML5" height="30" width="40"
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 
-  <img align="center" alt="CSS" height="30" width="40"
+  <img alt="CSS3" height="30" width="40"
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
-  <img align="center" alt="TS" height="30" width="40"
+  <img alt="TypeScript" height="30" width="40"
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
 
-  <img align="center" alt="REACT" height="30" width="40"
+  <img alt="React" height="30" width="40"
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 
-  <img align="center" alt="SASS" height="30" width="40"
+  <img alt="Sass" height="30" width="40"
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
 
-  <img align="center" alt="BOOTSTRAP" height="30" width="40"
+  <img alt="Bootstrap" height="30" width="40"
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
 
-  <img align="center" alt="JAVA" height="30" width="40"
+  <img alt="Java" height="30" width="40"
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 
-  <img align="center" alt="C" height="30" width="40"
+  <img alt="C" height="30" width="40"
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 
-  <img align="center" alt="RUBY" height="30" width="40"
+  <img alt="Ruby" height="30" width="40"
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
 
-  <img align="center" alt="PHP" height="30" width="40"
+  <img alt="PHP" height="30" width="40"
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 
-  <img align="center" alt="VSCODE" height="30" width="40"
+  <img alt="VS Code" height="30" width="40"
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 
 </div>
 
-<br><br>
+<br>
+<br>
 
-## 👨‍💻 Hello World... I'm Rafael!
+# 👨‍💻 Hello World... I'm Rafael!
+
+🎓 Information Systems Student  
+💻 Focused on Data Analysis, Python and Web Development  
+📊 Passionate about Technology and Visualization Projects  
+
+<br>
 
 <div align="center">
 
@@ -64,5 +71,21 @@
   <a href="https://www.linkedin.com/in/rafaelmocellin/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+
+</div>
+
+<br>
+
+## 🚀 Featured Projects
+
+🔹 Netflix Data Visualization  
+🔹 Python Data Analysis Projects  
+🔹 Web Development Projects  
+
+<br>
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=RafaelMocellinL19&color=blue)
 
 </div>
