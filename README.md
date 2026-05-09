@@ -42,13 +42,12 @@
   <img alt="PHP" height="30" width="40"
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 
-  <img alt="VS Code" height="30" width="40"
+  <img alt="VSCode" height="30" width="40"
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 
 </div>
 
-<br>
-<br>
+<br><br>
 
 # 👨‍💻 Hello World... I'm Rafael!
 
