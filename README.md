@@ -28,7 +28,7 @@
   
   <a href="https://www.instagram.com/rafaleszczynsk1/" target="_blank"><img src="https://img.shields.io/badge/-instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>
  
-  <a href = "https://wa.me/5551989533261?text=Olá%20entrei%20contato%20pelo%20seu%20perfil%20do%20GitHub!%20"><img src="https://img.shields.io/badge/-Whatsapp-%23333?style=green-the-badge&logo=whatsapp&logoColor=green" destino ="_blank"></a>
+  <a href = "https://wa.me/5548988684263?text=Olá%20entrei%20contato%20pelo%20seu%20perfil%20do%20GitHub!%20"><img src="https://img.shields.io/badge/-Whatsapp-%23333?style=green-the-badge&logo=whatsapp&logoColor=green" destino ="_blank"></a>
   
   <a href="https://www.linkedin.com/in/rafaelmocellin/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
