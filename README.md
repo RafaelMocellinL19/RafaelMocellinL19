@@ -37,7 +37,7 @@
 - 📊 Nflix Data Visualization
 - 🐍 Python Data Analysis
 - 🌐 Web Development Projects
-
+---
 ### 📊 Netflix Data Visualization
 
 <p align="center">
